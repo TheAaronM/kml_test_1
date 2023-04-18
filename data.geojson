@@ -11,19 +11,19 @@
             },
             "properties": {
                 "OBJECTID": 1,
-                "LOCATIONID": 2124,
-                "NAME": "AdventHealth - Carrollwood",
-                "ADDRESS": "7171 N Dale Mabry Hwy",
+                "LOCATIONID": null,
+                "NAME": "TransCare Ambulance",
+                "ADDRESS": "14901 Crisis Center Plaza",
                 "CITY": "Tampa",
-                "ZIP": 33614,
-                "HELIPAD": "",
-                "TYPE": "Hospital (Trauma Capable)",
-                "Website": "https://www.floridahospital.com/carrollwood",
+                "ZIP": 33613,
+                "HELIPAD": null,
+                "TYPE": "Ambulance",
+                "Website": "null",
                 "created_user": "HillsboroughCounty",
                 "created_date": 1617509365053,
                 "last_edited_user": "HillsboroughCounty",
                 "last_edited_date": 1617509365053,
-                "GlobalID": "e16a8163-b197-4105-8cc0-2a8e1869ff04",
+                "GlobalID": "5722e399-5a2a-4b6b-a4f4-b07d16248b6e",
                 "AIRMED": null
             }
         }, {
