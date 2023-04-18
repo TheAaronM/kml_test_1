@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
-    <name>My office Updated</name>
+    <name>My office Updated #2</name>
     <description>This is the location of my updated office.</description>
     <Point>
       <coordinates>40.40338, 2.17403</coordinates>
