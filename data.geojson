@@ -36,10 +36,10 @@
             "properties": {
                 "OBJECTID": 2,
                 "LOCATIONID": 2112,
-                "NAME": "St Joseph'S Hospital (Main)",
-                "ADDRESS": "3001 W Martin Luther King Jr Blvd",
+                "NAME": "St Joseph'S Hospital - North",
+                "ADDRESS": "4211 Van Dyke Road",
                 "CITY": "Tampa",
-                "ZIP": 33614,
+                "ZIP": 33558,
                 "HELIPAD": "Y",
                 "TYPE": "Trauma Center (L-2+Peds+Air Med)",
                 "Website": "https://baycare.org/locations/s/st-josephs-hospital",
