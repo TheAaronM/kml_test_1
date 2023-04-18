@@ -4,7 +4,7 @@
     <name>My office</name>
     <description>This is the location of my office.</description>
     <Point>
-      <coordinates>51.728420,-3.748050</coordinates>
+      <coordinates>50.728420,-3.748050</coordinates>
     </Point>
   </Placemark>
 </kml>
