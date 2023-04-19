@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": 
+	[
+		{
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.5038862946476, 26.11349695708]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "LOCATIONID": null,
+                "NAME": "TransCare Ambulance",
+                "ADDRESS": "14901 Crisis Center Plaza",
+                "CITY": "Tampa",
+                "ZIP": 33613,
+                "HELIPAD": null,
+                "TYPE": "Ambulance",
+                "Website": "null",
+                "created_user": "HillsboroughCounty",
+                "created_date": 1617509365053,
+                "last_edited_user": "HillsboroughCounty",
+                "last_edited_date": 1617509365053,
+                "GlobalID": "5722e399-5a2a-4b6b-a4f4-b07d16248b6e",
+                "AIRMED": null
+            }
+        }, {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.4908396457714, 26.9823715540708]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "LOCATIONID": 2112,
+                "NAME": "St Joseph'S Hospital - North",
+                "ADDRESS": "4211 Van Dyke Road",
+                "CITY": "Tampa",
+                "ZIP": 33558,
+                "HELIPAD": "Y",
+                "TYPE": "Trauma Center (L-2+Peds+Air Med)",
+                "Website": "https://baycare.org/locations/s/st-josephs-hospital",
+                "created_user": "HillsboroughCounty",
+                "created_date": 1617509365053,
+                "last_edited_user": "HillsboroughCounty",
+                "last_edited_date": 1617509365053,
+                "GlobalID": "268bc666-1797-4d9b-9fd1-37c76e8f1cb1",
+                "AIRMED": null
+            }
+        }
+    ]
+}
