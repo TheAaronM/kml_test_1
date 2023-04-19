@@ -4,10 +4,10 @@
 	[
 		{
             "type": "Feature",
-            "id": 1,
+            "id": 5,
             "geometry": {
                 "type": "Point",
-                "coordinates": [-82.5038862946476, 28.11349695708]
+                "coordinates": [-81.5038862946476, 28.11349695708]
             },
             "properties": {
                 "OBJECTID": 3,
@@ -28,10 +28,10 @@
             }
         }, {
             "type": "Feature",
-            "id": 2,
+            "id": 6,
             "geometry": {
                 "type": "Point",
-                "coordinates": [-82.4908396457714, 27.9823715540708]
+                "coordinates": [-81.4908396457714, 27.9823715540708]
             },
             "properties": {
                 "OBJECTID": 4,
