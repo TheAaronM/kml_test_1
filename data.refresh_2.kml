@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Refresh Placemark Example</name>
+    <Placemark>
+      <name>My Placemark</name>
+      <description>A sample placemark with refresh tag</description>
+      <Point>
+        <coordinates>-112.0722035425683,37.42128990140251,0</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>2023-04-18T12:00:00Z</begin>
+        <end>2023-04-18T12:30:00Z</end>
+      </TimeSpan>
+      <RefreshMode>onInterval</RefreshMode>
+      <RefreshInterval>60</RefreshInterval>
+    </Placemark>
+  </Document>
+</kml>
