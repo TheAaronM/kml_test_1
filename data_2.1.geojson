@@ -4,13 +4,13 @@
 	[
 		{
             "type": "Feature",
-            "id": 101,
+            "id": 1,
             "geometry": {
                 "type": "Point",
-                "coordinates": [-81.5038862946476, 28.11349695708]
+                "coordinates": [-82.5038862946476, 28.11349695708]
             },
             "properties": {
-                "OBJECTID": 101,
+                "OBJECTID": 3,
                 "LOCATIONID": null,
                 "NAME": "TransCare Ambulance",
                 "ADDRESS": "14901 Crisis Center Plaza",
@@ -28,13 +28,13 @@
             }
         }, {
             "type": "Feature",
-            "id": 102,
+            "id": 2,
             "geometry": {
                 "type": "Point",
-                "coordinates": [-83.4908396457714, 27.9823715540708]
+                "coordinates": [-82.4908396457714, 27.9823715540708]
             },
             "properties": {
-                "OBJECTID": 102,
+                "OBJECTID": 4,
                 "LOCATIONID": 2112,
                 "NAME": "St Joseph'S Hospital - North",
                 "ADDRESS": "4211 Van Dyke Road",
