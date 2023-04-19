@@ -4,16 +4,16 @@
 	[
 		{
             "type": "Feature",
-            "id": 1,
+            "id": 110,
             "geometry": {
                 "type": "Point",
                 "coordinates": [-81.5038862946476, 26.11349695708]
             },
             "properties": {
-                "OBJECTID": 1,
+                "OBJECTID": 110,
                 "LOCATIONID": null,
-                "NAME": "TransCare Ambulance",
-                "ADDRESS": "14901 Crisis Center Plaza",
+                "NAME": "TransCare Ambulance #2",
+                "ADDRESS": "14902 Crisis Center Plaza",
                 "CITY": "Tampa",
                 "ZIP": 33613,
                 "HELIPAD": null,
@@ -28,16 +28,16 @@
             }
         }, {
             "type": "Feature",
-            "id": 2,
+            "id": 111,
             "geometry": {
                 "type": "Point",
                 "coordinates": [-81.4908396457714, 26.9823715540708]
             },
             "properties": {
-                "OBJECTID": 2,
+                "OBJECTID": 111,
                 "LOCATIONID": 2112,
-                "NAME": "St Joseph'S Hospital - North",
-                "ADDRESS": "4211 Van Dyke Road",
+                "NAME": "St Joseph'S Hospital - North #2",
+                "ADDRESS": "4221 Van Dyke Road",
                 "CITY": "Tampa",
                 "ZIP": 33558,
                 "HELIPAD": "Y",
