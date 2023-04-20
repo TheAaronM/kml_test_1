@@ -7,7 +7,7 @@
             "id": 110,
             "geometry": {
                 "type": "Point",
-                "coordinates": [-123.5038862946476, 37.11349695708]
+                "coordinates": [-103.5038862946476, 37.11349695708]
             },
             "properties": {
                 "OBJECTID": 110,
@@ -31,7 +31,7 @@
             "id": 111,
             "geometry": {
                 "type": "Point",
-                "coordinates": [-123.4908396457714, 37.9823715540708]
+                "coordinates": [-103.4908396457714, 37.9823715540708]
             },
             "properties": {
                 "OBJECTID": 111,
