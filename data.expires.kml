@@ -6,11 +6,11 @@
       <name>My Placemark</name>
       <description>A sample placemark with expires tag</description>
       <Point>
-        <coordinates>-91.0712035425683,36.42228990140251,0</coordinates>
+        <coordinates>-101.0712035425683,36.42228990140251,0</coordinates>
       </Point>
       <TimeSpan>
         <begin>2023-04-18T12:00:00Z</begin>
-        <end>2023-04-19T12:30:00Z</end>
+        <end>2023-04-26T12:30:00Z</end>
       </TimeSpan>
       <RefreshMode>onInterval</RefreshMode>
       <RefreshInterval>60</RefreshInterval>
