@@ -6,7 +6,7 @@
       <name>My Placemark</name>
       <description>A sample placemark with expires tag</description>
       <Point>
-        <coordinates>-101.0712035425683,36.42228990140251,0</coordinates>
+        <coordinates>-120.0712035425683,34.42228990140251,0</coordinates>
       </Point>
       <TimeSpan>
         <begin>2023-04-18T12:00:00Z</begin>
