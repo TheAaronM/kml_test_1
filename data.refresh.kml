@@ -6,7 +6,7 @@
       <name>My Placemark</name>
       <description>A sample placemark with refresh tag</description>
       <Point>
-        <coordinates>-117.0722035425683,34.42128990140251,0</coordinates>
+        <coordinates>-124.0722035425683,34.42128990140251,0</coordinates>
       </Point>
       <TimeSpan>
         <begin>2023-04-18T12:00:00Z</begin>
